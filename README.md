@@ -17,11 +17,11 @@ This repository contains four standalone homeworks. For each homework branch you
 
 > Switch to a branch to view and run a specific homework.
 
-**| HW | Branch name (convention) | Language | Entry point (typical) |**
-|---:|---|---|---|---|
-| 1 | `Linear-Regression` | Python | `src/main.py` or `Main` | 
-| 2 | `Decision-Trees-with-Pruning' | Python | `src/main.py` or `Main` | 
-| 3 | `Probablistic-Models-&-Naive-Bayes` | Python | `src/main.py` or `Main` |
-| 4 | `Logistic-Regression,-Bayes-and-EM` | Python | `src/main.py` or `Main` | 
+| HW | Branch name | Language | Entry point |
+|---:|-------------|----------|-------------|
+| 1 | `Linear-Regression` | Python | `src/main.py` |
+| 2 | `Decision-Trees-with-Pruning` | Python | `src/main.py` |
+| 3 | `Probabilistic-Models-and-Naive-Bayes` | Python | `src/main.py` |
+| 4 | `Logistic-Regression-Bayes-and-EM` | Python | `src/main.py` |
 
 > The exact topic appears in each branch name.
